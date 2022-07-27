@@ -1,0 +1,367 @@
+Time:10-06-2022 16:47      Reason:Tired
+Time:10-06-2022 16:47      Reason:Lonely
+Time:10-06-2022 16:53      Reason:Lonely
+Time:10-06-2022 16:54      Reason:Discomfort
+Time:10-06-2022 16:55      Reason:Lonely
+Time:10-06-2022 16:56      Reason:Lonely
+Time:10-06-2022 16:59      Reason:Tired
+Time:10-06-2022 16:59      Reason:Lonely
+Time:10-06-2022 17:01      Reason:Tired
+Time:10-06-2022 17:01      Reason:Lonely
+Time:10-06-2022 17:03      Reason:Discomfort
+Time:10-06-2022 17:03      Reason:Lonely
+Time:10-06-2022 17:04      Reason:Lonely
+Time:10-06-2022 17:04      Reason:Discomfort
+Time:10-06-2022 17:05      Reason:Lonely
+Time:10-06-2022 17:06      Reason:Lonely
+Time:10-06-2022 17:06      Reason:Lonely
+Time:10-06-2022 17:07      Reason:Lonely
+Time:10-06-2022 17:08      Reason:Lonely
+Time:10-06-2022 17:09      Reason:Lonely
+Time:10-06-2022 17:11      Reason:Lonely
+Time:10-06-2022 17:14      Reason:Tired
+Time:10-06-2022 17:14      Reason:Lonely
+Time:10-06-2022 17:15      Reason:Lonely
+Time:10-06-2022 17:15      Reason:Lonely
+Time:10-06-2022 17:16      Reason:Lonely
+Time:10-06-2022 17:17      Reason:Lonely
+Time:10-06-2022 17:17      Reason:Discomfort
+Time:10-06-2022 17:17      Reason:Discomfort
+Time:10-06-2022 17:18      Reason:Lonely
+Time:10-06-2022 17:18      Reason:Lonely
+Time:10-06-2022 17:18      Reason:Tired
+Time:10-06-2022 17:19      Reason:Lonely
+Time:10-06-2022 17:20      Reason:Tired
+Time:10-06-2022 17:20      Reason:Lonely
+Time:10-06-2022 17:22      Reason:Tired
+Time:10-06-2022 17:22      Reason:Lonely
+Time:10-06-2022 17:23      Reason:Lonely
+Time:10-06-2022 17:24      Reason:Discomfort
+Time:10-06-2022 17:24      Reason:Lonely
+Time:10-06-2022 17:25      Reason:Lonely
+Time:10-06-2022 17:25      Reason:Lonely
+Time:10-06-2022 17:26      Reason:Lonely
+Time:10-06-2022 17:27      Reason:Lonely
+Time:10-06-2022 17:28      Reason:Discomfort
+Time:10-06-2022 17:28      Reason:Lonely
+Time:10-06-2022 17:28      Reason:Lonely
+Time:10-06-2022 17:29      Reason:Tired
+Time:10-06-2022 17:30      Reason:Lonely
+Time:10-06-2022 17:31      Reason:Lonely
+Time:10-06-2022 17:32      Reason:Lonely
+Time:10-06-2022 17:32      Reason:Discomfort
+Time:10-06-2022 17:33      Reason:Discomfort
+Time:10-06-2022 17:33      Reason:Lonely
+Time:10-06-2022 17:33      Reason:Lonely
+Time:10-06-2022 17:34      Reason:Lonely
+Time:10-06-2022 17:34      Reason:Discomfort
+Time:10-06-2022 17:35      Reason:Hunger
+Time:10-06-2022 17:35      Reason:Discomfort
+Time:10-06-2022 17:36      Reason:Discomfort
+Time:10-06-2022 17:36      Reason:Discomfort
+Time:10-06-2022 17:38      Reason:Lonely
+Time:10-06-2022 17:38      Reason:Tired
+Time:10-06-2022 17:38      Reason:Lonely
+Time:10-06-2022 17:39      Reason:Lonely
+Time:10-06-2022 17:40      Reason:Lonely
+Time:10-06-2022 17:40      Reason:Lonely
+Time:10-06-2022 17:40      Reason:Tired
+Time:10-06-2022 17:40      Reason:Tired
+Time:10-06-2022 17:41      Reason:Tired
+Time:10-06-2022 17:43      Reason:Tired
+Time:10-06-2022 17:43      Reason:Lonely
+Time:10-06-2022 17:44      Reason:Tired
+Time:10-06-2022 17:44      Reason:Lonely
+Time:10-06-2022 17:44      Reason:Lonely
+Time:10-06-2022 17:45      Reason:Tired
+Time:10-06-2022 17:45      Reason:Lonely
+Time:10-06-2022 17:45      Reason:Lonely
+Time:10-06-2022 17:46      Reason:Discomfort
+Time:10-06-2022 17:46      Reason:Lonely
+Time:10-06-2022 17:47      Reason:Lonely
+Time:10-06-2022 17:47      Reason:Discomfort
+Time:10-06-2022 17:48      Reason:Tired
+Time:10-06-2022 17:48      Reason:Lonely
+Time:10-06-2022 17:48      Reason:Lonely
+Time:10-06-2022 17:49      Reason:Discomfort
+Time:10-06-2022 17:50      Reason:Lonely
+Time:10-06-2022 17:50      Reason:Discomfort
+Time:10-06-2022 17:50      Reason:Lonely
+Time:10-06-2022 17:51      Reason:Discomfort
+Time:10-06-2022 17:51      Reason:Discomfort
+Time:10-06-2022 17:51      Reason:Lonely
+Time:10-06-2022 17:52      Reason:Lonely
+Time:10-06-2022 17:54      Reason:Discomfort
+Time:10-06-2022 17:54      Reason:Lonely
+Time:10-06-2022 17:54      Reason:Hunger
+Time:10-06-2022 17:56      Reason:Hunger
+Time:10-06-2022 17:56      Reason:Lonely
+Time:10-06-2022 17:57      Reason:Lonely
+Time:10-06-2022 17:58      Reason:Lonely
+Time:10-06-2022 17:58      Reason:Lonely
+Time:10-06-2022 18:00      Reason:Scared
+Time:10-06-2022 18:00      Reason:Lonely
+Time:10-06-2022 18:00      Reason:Lonely
+Time:10-06-2022 18:01      Reason:Lonely
+Time:10-06-2022 18:02      Reason:Lonely
+Time:10-06-2022 18:02      Reason:Lonely
+Time:10-06-2022 18:03      Reason:Lonely
+Time:10-06-2022 18:03      Reason:Lonely
+Time:10-06-2022 18:03      Reason:Lonely
+Time:10-06-2022 18:04      Reason:Lonely
+Time:10-06-2022 18:04      Reason:Lonely
+Time:10-06-2022 18:04      Reason:Lonely
+Time:10-06-2022 18:05      Reason:Lonely
+Time:10-06-2022 18:05      Reason:Lonely
+Time:10-06-2022 18:06      Reason:Lonely
+Time:10-06-2022 18:06      Reason:Lonely
+Time:10-06-2022 18:06      Reason:Lonely
+Time:10-06-2022 18:07      Reason:Lonely
+Time:10-06-2022 18:08      Reason:Lonely
+Time:10-06-2022 18:08      Reason:Lonely
+Time:10-06-2022 18:08      Reason:Lonely
+Time:10-06-2022 18:09      Reason:Lonely
+Time:10-06-2022 18:11      Reason:Lonely
+Time:10-06-2022 18:20      Reason:Lonely
+Time:10-06-2022 18:20      Reason:Lonely
+Time:10-06-2022 18:20      Reason:Lonely
+Time:10-06-2022 18:23      Reason:Lonely
+Time:10-06-2022 18:34      Reason:Lonely
+Time:10-06-2022 18:36      Reason:Lonely
+Time:10-06-2022 18:39      Reason:Tired
+Time:10-06-2022 18:39      Reason:Lonely
+Time:10-06-2022 18:39      Reason:Lonely
+Time:10-06-2022 18:39      Reason:Lonely
+Time:10-06-2022 18:39      Reason:Lonely
+Time:10-06-2022 18:40      Reason:Lonely
+Time:10-06-2022 18:40      Reason:Discomfort
+Time:10-06-2022 18:40      Reason:Lonely
+Time:10-06-2022 18:41      Reason:Lonely
+Time:10-06-2022 18:41      Reason:Tired
+Time:10-06-2022 18:41      Reason:Tired
+Time:10-06-2022 18:42      Reason:Lonely
+Time:10-06-2022 18:42      Reason:Tired
+Time:10-06-2022 18:43      Reason:Tired
+Time:10-06-2022 18:43      Reason:Discomfort
+Time:10-06-2022 18:44      Reason:Discomfort
+Time:10-06-2022 18:44      Reason:Lonely
+Time:10-06-2022 18:45      Reason:Tired
+Time:10-06-2022 18:46      Reason:Lonely
+Time:10-06-2022 18:46      Reason:Lonely
+Time:10-06-2022 18:47      Reason:Lonely
+Time:10-06-2022 18:48      Reason:Tired
+Time:10-06-2022 18:48      Reason:Tired
+Time:10-06-2022 18:49      Reason:Tired
+Time:10-06-2022 18:49      Reason:Lonely
+Time:10-06-2022 18:49      Reason:Lonely
+Time:10-06-2022 18:50      Reason:Lonely
+Time:10-06-2022 18:50      Reason:Lonely
+Time:10-06-2022 18:51      Reason:Lonely
+Time:10-06-2022 18:52      Reason:Discomfort
+Time:10-06-2022 18:56      Reason:Tired
+Time:10-06-2022 18:56      Reason:Lonely
+Time:10-06-2022 18:57      Reason:Tired
+Time:10-06-2022 18:58      Reason:Lonely
+Time:10-06-2022 18:58      Reason:Lonely
+Time:10-06-2022 19:02      Reason:Tired
+Time:10-06-2022 19:02      Reason:Lonely
+Time:10-06-2022 19:03      Reason:Lonely
+Time:10-06-2022 19:04      Reason:Lonely
+Time:10-06-2022 19:07      Reason:Lonely
+Time:10-06-2022 19:08      Reason:Lonely
+Time:10-06-2022 19:09      Reason:Lonely
+Time:10-06-2022 19:11      Reason:Lonely
+Time:10-06-2022 19:12      Reason:Lonely
+Time:10-06-2022 19:15      Reason:Tired
+Time:10-06-2022 19:16      Reason:Lonely
+Time:10-06-2022 19:18      Reason:Lonely
+Time:10-06-2022 19:19      Reason:Lonely
+Time:10-06-2022 19:19      Reason:Lonely
+Time:10-06-2022 19:19      Reason:Lonely
+Time:10-06-2022 19:20      Reason:Lonely
+Time:10-06-2022 19:20      Reason:Lonely
+Time:10-06-2022 19:21      Reason:Lonely
+Time:10-06-2022 19:21      Reason:Lonely
+Time:10-06-2022 19:21      Reason:Lonely
+Time:10-06-2022 19:22      Reason:Lonely
+Time:10-06-2022 19:23      Reason:Lonely
+Time:10-06-2022 19:24      Reason:Lonely
+Time:10-06-2022 19:24      Reason:Lonely
+Time:10-06-2022 19:25      Reason:Lonely
+Time:10-06-2022 19:25      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:26      Reason:Lonely
+Time:10-06-2022 19:27      Reason:Lonely
+Time:10-06-2022 19:27      Reason:Lonely
+Time:10-06-2022 19:28      Reason:Lonely
+Time:10-06-2022 19:29      Reason:Lonely
+Time:10-06-2022 19:30      Reason:Tired
+Time:10-06-2022 19:31      Reason:Lonely
+Time:10-06-2022 19:31      Reason:Tired
+Time:10-06-2022 19:32      Reason:Lonely
+Time:10-06-2022 19:33      Reason:Lonely
+Time:10-06-2022 19:34      Reason:Lonely
+Time:10-06-2022 19:34      Reason:Lonely
+Time:10-06-2022 19:35      Reason:Discomfort
+Time:10-06-2022 19:35      Reason:Lonely
+Time:10-06-2022 19:35      Reason:Lonely
+Time:10-06-2022 19:36      Reason:Lonely
+Time:10-06-2022 19:38      Reason:Lonely
+Time:10-06-2022 19:41      Reason:Tired
+Time:10-06-2022 19:42      Reason:Lonely
+Time:10-06-2022 19:42      Reason:Lonely
+Time:10-06-2022 19:42      Reason:Lonely
+Time:10-06-2022 19:43      Reason:Lonely
+Time:10-06-2022 19:43      Reason:Lonely
+Time:10-06-2022 19:43      Reason:Lonely
+Time:10-06-2022 19:44      Reason:Lonely
+Time:10-06-2022 19:45      Reason:Tired
+Time:10-06-2022 19:45      Reason:Tired
+Time:10-06-2022 19:46      Reason:Lonely
+Time:10-06-2022 19:46      Reason:Lonely
+Time:10-06-2022 19:47      Reason:Discomfort
+Time:10-06-2022 19:47      Reason:Tired
+Time:10-06-2022 19:48      Reason:Discomfort
+Time:10-06-2022 19:49      Reason:Discomfort
+Time:10-06-2022 19:49      Reason:Lonely
+Time:10-06-2022 19:50      Reason:Discomfort
+Time:10-06-2022 19:50      Reason:Lonely
+Time:10-06-2022 19:50      Reason:Discomfort
+Time:10-06-2022 19:51      Reason:Tired
+Time:10-06-2022 19:51      Reason:Lonely
+Time:10-06-2022 19:52      Reason:Tired
+Time:10-06-2022 19:52      Reason:Tired
+Time:10-06-2022 19:53      Reason:Lonely
+Time:10-06-2022 19:53      Reason:Lonely
+Time:10-06-2022 19:54      Reason:Tired
+Time:10-06-2022 19:54      Reason:Lonely
+Time:10-06-2022 19:55      Reason:Lonely
+Time:10-06-2022 19:55      Reason:Lonely
+Time:10-06-2022 19:55      Reason:Tired
+Time:10-06-2022 19:56      Reason:Lonely
+Time:10-06-2022 19:56      Reason:Tired
+Time:10-06-2022 19:57      Reason:Discomfort
+Time:10-06-2022 19:57      Reason:Lonely
+Time:10-06-2022 19:57      Reason:Lonely
+Time:10-06-2022 19:57      Reason:Lonely
+Time:10-06-2022 19:58      Reason:Tired
+Time:10-06-2022 19:59      Reason:Lonely
+Time:10-06-2022 19:59      Reason:Discomfort
+Time:10-06-2022 20:00      Reason:Tired
+Time:10-06-2022 20:01      Reason:Discomfort
+Time:10-06-2022 20:01      Reason:Tired
+Time:10-06-2022 20:02      Reason:Lonely
+Time:10-06-2022 20:03      Reason:Discomfort
+Time:10-06-2022 20:04      Reason:Discomfort
+Time:10-06-2022 20:04      Reason:Lonely
+Time:10-06-2022 20:04      Reason:Lonely
+Time:10-06-2022 20:05      Reason:Lonely
+Time:10-06-2022 20:06      Reason:Lonely
+Time:10-06-2022 20:07      Reason:Tired
+Time:10-06-2022 20:07      Reason:Lonely
+Time:10-06-2022 20:07      Reason:Lonely
+Time:10-06-2022 20:08      Reason:Lonely
+Time:10-06-2022 20:08      Reason:Belly Pain
+Time:10-06-2022 20:09      Reason:Lonely
+Time:10-06-2022 20:10      Reason:Tired
+Time:10-06-2022 20:10      Reason:Lonely
+Time:10-06-2022 20:12      Reason:Lonely
+Time:10-06-2022 20:13      Reason:Lonely
+Time:10-06-2022 20:13      Reason:Lonely
+Time:10-06-2022 20:14      Reason:Lonely
+Time:10-06-2022 20:16      Reason:Tired
+Time:10-06-2022 20:17      Reason:Lonely
+Time:10-06-2022 20:17      Reason:Lonely
+Time:10-06-2022 20:18      Reason:Lonely
+Time:10-06-2022 20:18      Reason:Lonely
+Time:10-06-2022 20:19      Reason:Lonely
+Time:10-06-2022 20:19      Reason:Lonely
+Time:10-06-2022 20:19      Reason:Discomfort
+Time:10-06-2022 20:20      Reason:Lonely
+Time:10-06-2022 20:31      Reason:Belly Pain
+Time:10-06-2022 20:32      Reason:Belly Pain
+Time:10-06-2022 20:33      Reason:Discomfort
+Time:10-06-2022 20:33      Reason:Belly Pain
+Time:10-06-2022 20:34      Reason:Discomfort
+Time:10-06-2022 20:35      Reason:Scared
+Time:10-06-2022 20:35      Reason:Belly Pain
+Time:10-06-2022 20:35      Reason:Scared
+Time:10-06-2022 20:36      Reason:Belly Pain
+Time:10-06-2022 20:36      Reason:Belly Pain
+Time:10-06-2022 20:37      Reason:Belly Pain
+Time:10-06-2022 20:38      Reason:Discomfort
+Time:10-06-2022 20:39      Reason:Belly Pain
+Time:10-06-2022 20:39      Reason:Belly Pain
+Time:10-06-2022 20:40      Reason:Belly Pain
+Time:10-06-2022 20:41      Reason:Belly Pain
+Time:10-06-2022 20:42      Reason:Belly Pain
+Time:10-06-2022 21:34      Reason:Belly Pain
+Time:10-06-2022 21:36      Reason:Discomfort
+Time:10-06-2022 21:36      Reason:Discomfort
+Time:10-06-2022 21:37      Reason:Discomfort
+Time:10-06-2022 21:40      Reason:Belly Pain
+Time:10-06-2022 21:43      Reason:Belly Pain
+Time:10-06-2022 21:44      Reason:Belly Pain
+Time:10-06-2022 21:45      Reason:Belly Pain
+Time:10-06-2022 21:45      Reason:Belly Pain
+Time:10-06-2022 21:45      Reason:Belly Pain
+Time:10-06-2022 21:46      Reason:Belly Pain
+Time:10-06-2022 21:46      Reason:Belly Pain
+Time:10-06-2022 21:46      Reason:Belly Pain
+Time:10-06-2022 21:47      Reason:Scared
+Time:10-06-2022 21:49      Reason:Belly Pain
+Time:10-06-2022 21:49      Reason:Belly Pain
+Time:10-06-2022 21:50      Reason:Discomfort
+Time:10-06-2022 21:50      Reason:Belly Pain
+Time:10-06-2022 21:51      Reason:Discomfort
+Time:10-06-2022 21:51      Reason:Belly Pain
+Time:10-06-2022 22:04      Reason:Lonely
+Time:11-06-2022 04:18      Reason:Belly Pain
+Time:11-06-2022 06:22      Reason:Belly Pain
+Time:11-06-2022 06:22      Reason:Belly Pain
+Time:11-06-2022 06:23      Reason:Belly Pain
+Time:11-06-2022 06:24      Reason:Burping
+Time:11-06-2022 06:24      Reason:Belly Pain
+Time:11-06-2022 06:25      Reason:Discomfort
+Time:11-06-2022 06:26      Reason:Belly Pain
+Time:11-06-2022 06:27      Reason:Belly Pain
+Time:11-06-2022 06:28      Reason:Belly Pain
+Time:11-06-2022 06:29      Reason:Discomfort
+Time:11-06-2022 06:29      Reason:Belly Pain
+Time:11-06-2022 06:30      Reason:Belly Pain
+Time:11-06-2022 06:30      Reason:Belly Pain
+Time:11-06-2022 06:31      Reason:Discomfort
+Time:11-06-2022 06:32      Reason:Discomfort
+Time:11-06-2022 06:32      Reason:Belly Pain
+Time:11-06-2022 06:33      Reason:Belly Pain
+Time:11-06-2022 06:33      Reason:Belly Pain
+Time:11-06-2022 06:35      Reason:Discomfort
+Time:11-06-2022 06:39      Reason:Discomfort
+Time:11-06-2022 06:40      Reason:Discomfort
+Time:11-06-2022 06:40      Reason:Discomfort
+Time:11-06-2022 06:41      Reason:Discomfort
+Time:11-06-2022 06:44      Reason:Discomfort
+Time:11-06-2022 06:45      Reason:Discomfort
+Time:11-06-2022 06:46      Reason:Discomfort
+Time:11-06-2022 06:46      Reason:Discomfort
+Time:11-06-2022 06:47      Reason:Discomfort
+Time:11-06-2022 06:47      Reason:Discomfort
+Time:11-06-2022 06:48      Reason:Discomfort
+Time:11-06-2022 06:48      Reason:Discomfort
+Time:11-06-2022 06:53      Reason:Belly Pain
+Time:11-06-2022 06:55      Reason:Belly Pain
+Time:11-06-2022 06:57      Reason:Discomfort
+Time:11-06-2022 06:58      Reason:Discomfort
+Time:11-06-2022 07:20      Reason:Belly Pain
+Time:11-06-2022 07:21      Reason:Discomfort
+Time:11-06-2022 07:22      Reason:Scared
+Time:11-06-2022 07:25      Reason:Discomfort
+Time:11-06-2022 08:51      Reason:Scared
+Time:11-06-2022 09:58      Reason:Belly Pain
+Time:11-06-2022 09:59      Reason:Belly Pain
+Time:11-06-2022 09:59      Reason:Belly Pain

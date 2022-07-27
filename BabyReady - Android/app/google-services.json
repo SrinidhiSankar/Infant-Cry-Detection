@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705730632961",
+    "project_id": "infantcrydetect",
+    "storage_bucket": "infantcrydetect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705730632961:android:5b96a45bff772d72e84f00",
+        "android_client_info": {
+          "package_name": "com.example.kyle0.babyready"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705730632961-5v17d3oik68dc2sfns81cdr8dsct7qmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2taJexay4Vz1OOPu7JqdeQr64ofixVKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705730632961-5v17d3oik68dc2sfns81cdr8dsct7qmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
